@@ -1,4 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+NAME : AKSHAYAA M T
+REG NO : 212223110002 
+
 # AIM
 
  To write a lex program to implement lexical analyzer to recognize a few patterns.
