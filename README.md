@@ -1,7 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 NAME : AKSHAYAA M T
-REG NO : 212223110002 
-
+REG NO : 212223110002
 # AIM
 
  To write a lex program to implement lexical analyzer to recognize a few patterns.
@@ -73,7 +72,7 @@ int yywrap() {
 
 # OUTPUT
 
-<img width="948" height="558" alt="Screenshot 2025-09-25 133941" src="https://github.com/user-attachments/assets/ddff2b33-2c43-48a0-8a07-4c2fb50ba792" />
+<img width="406" height="282" alt="Screenshot 2025-09-25 150126" src="https://github.com/user-attachments/assets/97fa8e55-e4c4-4e8a-978b-811e37529034" />
 
 
 # RESULT
